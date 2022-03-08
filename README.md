@@ -1,2 +1,2 @@
 # stock-predict
-Predicts closing price ICICI Bank stock using Tensorflow.js
+Predicts closing price of ICICI Bank stock using Tensorflow.js
