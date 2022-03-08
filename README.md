@@ -1,2 +1,2 @@
 # stock-predict
-A dump stock price predictor
+Predicts closing price ICICI Bank stock using Tensorflow.js
